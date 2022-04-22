@@ -46,11 +46,7 @@ https://www.crealitycloud.com/model-detail/625c7f4c1a2f04def3265185
 
 https://m.crealitycloud.com/en/model-details/616ffd710bfa2e82df8021ed
 
-https://www.crealitycloud.com/model-detail/61dd8a5fc2d8b7c20ec2b342
-
 https://www.crealitycloud.com/model-detail/61dc6205c92027e5ffbb6fdd
-
-https://www.crealitycloud.com/model-detail/61dd8a5fc2d8b7c20ec2b342
 
 https://www.crealitycloud.com/model-detail/61dd8a5fc2d8b7c20ec2b342
 
@@ -86,6 +82,3 @@ https://www.crealitycloud.com/model-detail/62282298cb39333d0b150392
 
 https://www.crealitycloud.com/model-detail/622ba7668311d0290e7f302c
 
-https://www.crealitycloud.com/model-detail/62282298cb39333d0b150392
-
-https://www.crealitycloud.com/model-detail/622ba7668311d0290e7f302c
