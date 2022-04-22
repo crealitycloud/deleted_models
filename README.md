@@ -1,11 +1,14 @@
 # List of Deleted Models
-Protecting the rights of creators has always been at the core of our operations, and we have constantly been fighting against copyright issues since the platform went live. Below are the models that we have verified and removed. The list will be continually updated.
+Protecting the rights of creators has always been at the core of our operations, and we have constantly been fighting against copyright issues since the platform went live. Below are the models that we have verified and removed. The list will be continually updated. 
 
-We do NOT allow copyright infringement on Creality Cloud. 
+We are a small group of HUMAN BEINGS not AIs. We cannot be trained to recognize every model and automatically identify copyright infringement.
+
+However, we have been fighting against copyright infringement for a long time.
 
 If you see something on our app/website that doesn't look right, please use that report button. Or kindly email us at teamcloud[at]creality.com
 
 See it. Report it. Sorted.
+
 
 # Apr 22, 2022
 
