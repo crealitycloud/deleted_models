@@ -14,7 +14,7 @@ Upon receiving your report, we will pass along the information you provided to t
 
 # Track Our Progress
 
-Below are the models that we have verified and removed. The list will be continually updated. Please understand that We are a group of human beings, not AIs. We cannot be trained to recognize every model and automatically identify copyright infringement. But we do respect intellectual property rights, and we expect people on Creality Cloud to do the same. 
+Below are the models that we have verified and removed. The list will be continually updated. Please understand that we are a group of human beings, not AIs. We cannot be trained to recognize every model and automatically identify copyright infringement. But we do respect intellectual property rights, and we expect people on Creality Cloud to do the same. 
 
 # Apr 24, 2022
 
