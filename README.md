@@ -9,6 +9,13 @@ If you see something on our app/website that doesn't look right, please use that
 
 See it. Report it. Sorted.
 
+# Apr 24, 2022
+
+https://www.crealitycloud.com/model-detail/616ff7ee0bfa2e82df7f5e33
+
+https://www.crealitycloud.com/model-detail/6250a3b9c8f92b598e08100e 
+
+https://www.crealitycloud.com/model-detail/616ff7ee0bfa2e82df7f5e35
 
 # Apr 22, 2022
 
