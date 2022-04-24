@@ -1,13 +1,22 @@
 # List of Deleted Models
-Protecting the rights of creators has always been at the core of our operations, and we have constantly been fighting against copyright issues since the platform went live. Below are the models that we have verified and removed. The list will be continually updated. 
 
-We are a small group of HUMAN BEINGS not AIs. We cannot be trained to recognize every model and automatically identify copyright infringement.
+Creality Cloud is the world's first all-in-one 3D printing platform that offers model downloads, cloud slicing, and remote control printers to make 3D printing easier and smarter for over a million makers.
 
-However, we have been fighting against copyright infringement for a long time.
+Protecting the rights of creators has always been at the core of our operations, and we have constantly been fighting against copyright issues since the platform went live. We take copyright infringement seriously and remove reported infringing content. 
 
-If you see something on our app/website that doesn't look right, please use that report button. Or kindly email us at teamcloud[at]creality.com
+# Report Copyright Infringement
 
-See it. Report it. Sorted.
+If you find any copyright-protected 3D model was posted on Creality Cloud without authorization, you can submit a report. 
+
+1. If you believe that any 3D model on Creality Cloud infringes your copyright, you can report it with proofs by using the REPORT button on Creality Cloud
+
+2. If you think that any 3D model on Creality Cloud infringe someone else's copyright, you can also report it with proofs by using the REPORT button on Creality Cloud. 
+
+Upon receiving your report, we will pass along the information you provided to the user who posted the 3D model you're reporting to verify whether the infringement is true. And we will remove the model that involves copyright infringement after the verification is complete.
+
+# Track Our Progress
+
+Below are the models that we have verified and removed. The list will be continually updated.  Please understand that We are a small group of HUMAN BEINGS not AIs. We cannot be trained to recognize every model and automatically identify copyright infringement.
 
 # Apr 24, 2022
 
