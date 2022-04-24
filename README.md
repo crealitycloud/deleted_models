@@ -1,22 +1,20 @@
-# List of Deleted Models
-
 Creality Cloud is the world's first all-in-one 3D printing platform that offers model downloads, cloud slicing, and remote control printers to make 3D printing easier and smarter for over a million makers.
 
-Protecting the rights of creators has always been at the core of our operations, and we have constantly been fighting against copyright issues since the platform went live. We take copyright infringement seriously and remove reported infringing content. 
+Protecting the rights of creators has always been at the core of our operations, and we have constantly been fighting against copyright issues since the platform went live. We take copyright infringement seriously and remove reported infringing content. We believe that any 3D model belongs to its original creator other than any platform. 
 
 # Report Copyright Infringement
 
 If you find any copyright-protected 3D model was posted on Creality Cloud without authorization, you can submit a report. 
 
-1. If you believe that any 3D model on Creality Cloud infringes your copyright, you can report it with proofs by using the REPORT button on Creality Cloud
+1. If you believe that any 3D model on Creality Cloud infringes your copyright, you can report it with proof by using the REPORT button on Creality Cloud
 
-2. If you think that any 3D model on Creality Cloud infringe someone else's copyright, you can also report it with proofs by using the REPORT button on Creality Cloud. 
+2. If you think any 3D model on Creality Cloud infringes someone else's copyright, you can also report it with proof by using the REPORT button on Creality Cloud. 
 
 Upon receiving your report, we will pass along the information you provided to the user who posted the 3D model you're reporting to verify whether the infringement is true. And we will remove the model that involves copyright infringement after the verification is complete.
 
 # Track Our Progress
 
-Below are the models that we have verified and removed. The list will be continually updated.  Please understand that We are a small group of HUMAN BEINGS not AIs. We cannot be trained to recognize every model and automatically identify copyright infringement.
+Below are the models that we have verified and removed. The list will be continually updated. Please understand that We are a group of human beings, not AIs. We cannot be trained to recognize every model and automatically identify copyright infringement. But we do respect intellectual property rights, and we expect people on Creality Cloud to do the same. 
 
 # Apr 24, 2022
 
