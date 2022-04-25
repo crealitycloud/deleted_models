@@ -72,6 +72,13 @@ https://www.crealitycloud.com/model-detail/616ffd6e0bfa2e82df8021b2 [Thanos H]
 
 https://www.crealitycloud.com/model-detail/616ff8c70bfa2e82df7f8548 [BatmanDarkKnight]
 
+https://www.crealitycloud.com/model-detail/616ff8c80bfa2e82df7f8565 [Hawkman]
+
+https://www.crealitycloud.com/model-detail/616ff8c70bfa2e82df7f8541 [300 Spartanos]
+
+
+
+
 
 
 # Apr 24, 2022
