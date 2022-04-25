@@ -2,9 +2,9 @@ Creality Cloud is the world's first all-in-one 3D printing platform that offers 
 
 Protecting the rights of creators has always been at the core of our operations, and we have constantly been fighting against copyright issues since the platform went live. We take copyright infringement seriously and remove reported infringing content. We believe that any 3D model belongs to its original creator other than any platform. 
 
-![](./4d4a6b8c77817bc3c940ee939a775809.png =250x250)
+![](./4d4a6b8c77817bc3c940ee939a775809.png| width=100)
 
-![](./1191d54f26732816e8027c097090c993.png =250x250)
+![](./1191d54f26732816e8027c097090c993.png| width=100)
 
 # Report Copyright Infringement
 
