@@ -86,10 +86,21 @@ https://www.crealitycloud.com/model-detail/616ff8c80bfa2e82df7f8565 [Hawkman]
 
 https://www.crealitycloud.com/model-detail/616ff8c70bfa2e82df7f8541 [300 Spartanos]
 
+https://www.crealitycloud.com/model-detail/61e2ae7e2e8945171d5b9739 [ValkyrII Transformable]
 
+https://www.crealitycloud.com/model-detail/61e769f0b63e1ada8983e392 [Gundam Strike part 1]
 
+https://www.crealitycloud.com/model-detail/61e86f86dfe29e863cb424a9 [Pennywise Girl]
 
+https://www.crealitycloud.com/model-detail/622198ada5c3a75d8f545d49 [Monkey D Luffy]
 
+https://www.crealitycloud.com/model-detail/62318cfc544ce7f67c7956ad [Toph Beifong]
+
+https://www.crealitycloud.com/model-detail/616ff8c80bfa2e82df7f8573 [Naruto and Kurama]
+
+https://www.crealitycloud.com/model-detail/616ff8a80bfa2e82df7f7ffe [Gulpy]
+
+https://www.crealitycloud.com/model-detail/616ffad10bfa2e82df7fceae [Golthaarius]
 
 # Apr 24, 2022
 
