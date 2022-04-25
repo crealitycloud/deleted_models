@@ -20,6 +20,34 @@ Below are the models that we have verified and removed. The list will be continu
 
 https://www.crealitycloud.com/model-detail/6232f6a8544ce7f67c79ea30 [MECHA GODZILLA]
 
+https://www.crealitycloud.com/model-detail/616ff6ac0bfa2e82df7f1234 [Godzilla Vs Kong]
+
+https://www.crealitycloud.com/model-detail/616ff6350bfa2e82df7eea8f [Cute Harley Bike]
+
+https://www.crealitycloud.com/model-detail/616ff8c80bfa2e82df7f856b [IRON MAN LEGEND]
+
+https://www.crealitycloud.com/model-detail/616ff8c80bfa2e82df7f8550 [Capitán America en Moto]
+
+https://www.crealitycloud.com/model-detail/616ff8c70bfa2e82df7f854c [Blacksuperman]
+
+https://www.crealitycloud.com/model-detail/61ca39d54a0e50a53973af6d [Bloodborne Lady Maria]
+
+https://www.crealitycloud.com/model-detail/61ca09114a0e50a53973944a [Leviathan]
+
+https://www.crealitycloud.com/model-detail/
+
+https://www.crealitycloud.com/model-detail/
+
+https://www.crealitycloud.com/model-detail/
+
+https://www.crealitycloud.com/model-detail/
+
+
+
+
+
+
+
 
 # Apr 24, 2022
 
