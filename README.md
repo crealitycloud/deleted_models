@@ -4,11 +4,11 @@ Protecting the rights of creators has always been at the core of our operations,
 
 When users upload a model to Creality Cloud, they MUST choose a Creative Commons license.
 
-<img src="1191d54f26732816e8027c097090c993.png" width="900" height="500">
+<img src="1191d54f26732816e8027c097090c993.png" width="720" height="400">
 
 When users import models from Thingiverse, they MUST tick the box to agree that they can only import their own models.
 
-<img src="4d4a6b8c77817bc3c940ee939a775809.png" width="900" height="500">
+<img src="4d4a6b8c77817bc3c940ee939a775809.png" width="720" height="400">
 
 
 
