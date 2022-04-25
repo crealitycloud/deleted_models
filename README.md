@@ -6,6 +6,8 @@ Protecting the rights of creators has always been at the core of our operations,
 
 ![](./1191d54f26732816e8027c097090c993.png)
 
+<img src="1191d54f26732816e8027c097090c993.png" width="100" height="100">
+
 # Report Copyright Infringement
 
 If you find any copyright-protected 3D model was posted on Creality Cloud without authorization, you can submit a report. 
