@@ -6,7 +6,7 @@ Protecting the rights of creators has always been at the core of our operations,
 
 ![](./1191d54f26732816e8027c097090c993.png)
 
-<img src="1191d54f26732816e8027c097090c993.png" width="450" height="250">
+<img src="1191d54f26732816e8027c097090c993.png" width="900" height="500">
 
 # Report Copyright Infringement
 
