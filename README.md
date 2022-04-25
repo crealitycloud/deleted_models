@@ -34,13 +34,13 @@ https://www.crealitycloud.com/model-detail/61ca39d54a0e50a53973af6d [Bloodborne 
 
 https://www.crealitycloud.com/model-detail/61ca09114a0e50a53973944a [Leviathan]
 
-https://www.crealitycloud.com/model-detail/
+https://www.crealitycloud.com/model-detail/616ff8c80bfa2e82df7f8571 [mando dio]
 
-https://www.crealitycloud.com/model-detail/
+https://www.crealitycloud.com/model-detail/616ff8c80bfa2e82df7f8554 [Captain Hydra]
 
-https://www.crealitycloud.com/model-detail/
+https://www.crealitycloud.com/model-detail/616ffcc40bfa2e82df800d65 [deadpool bust v2 supportless by eastman]
 
-https://www.crealitycloud.com/model-detail/
+https://www.crealitycloud.com/model-detail/616ffd330bfa2e82df801c05 [NARUTO + HINATA]
 
 
 
