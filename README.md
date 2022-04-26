@@ -28,6 +28,8 @@ Below are the models that we have verified and removed. The list will be continu
 
 # Apr 26, 2022
 
+https://www.crealitycloud.com/model-detail/616ffc900bfa2e82df80072e [Morty Saltarin]
+
 https://www.crealitycloud.com/model-detail/616ffcba0bfa2e82df800c4a [Goku Osaru SSJ4]
 
 https://www.crealitycloud.com/model-detail/616ffc900bfa2e82df800730 [Rick Saltarin]
