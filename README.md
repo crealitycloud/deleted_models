@@ -26,6 +26,13 @@ Upon receiving your report, we will pass along the information you provided to t
 
 Below are the models that we have verified and removed. The list will be continually updated. Please understand that we are a group of human beings, not AIs. We cannot be trained to recognize every model and automatically identify copyright infringement. But we do respect intellectual property rights, and we expect people on Creality Cloud to do the same. 
 
+# Apr 26, 2022
+
+https://www.crealitycloud.com/model-detail/616ffcba0bfa2e82df800c4a [Goku Osaru SSJ4]
+
+https://www.crealitycloud.com/model-detail/616ffc900bfa2e82df800730 [Rick Saltarin]
+
+
 # Apr 25, 2022
 
 https://www.crealitycloud.com/model-detail/6232f6a8544ce7f67c79ea30 [MECHA GODZILLA]
