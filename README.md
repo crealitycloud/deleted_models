@@ -20,6 +20,8 @@ If you find any copyright-protected 3D model was posted on Creality Cloud withou
 
 2. If you think any 3D model on Creality Cloud infringes someone else's copyright, you can also report it with proof by using the REPORT button on Creality Cloud 
 
+<img src="report_model_on_mobile.png" width="720" height="400">
+
 Upon receiving your report, we will pass along the information you provided to the user who posted the 3D model you're reporting to verify whether the infringement is true. And we will remove the model that involves copyright infringement after the verification is complete.
 
 # Track Our Progress
