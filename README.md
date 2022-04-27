@@ -54,6 +54,8 @@ https://www.crealitycloud.com/model-detail/62625e21f6ff7774e113ca60 [Darth vader
 
 https://www.crealitycloud.com/model-detail/626675bcbb6b6e4982a4d101 [Nezuko]
 
+https://www.crealitycloud.com/model-detail/62268e63f7f5f4a44572a072 [Nezuko]
+
 # Apr 26, 2022
 
 https://www.crealitycloud.com/model-detail/616ffd0d0bfa2e82df8016bc [DeadPool Chibi]
