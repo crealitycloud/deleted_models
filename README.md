@@ -26,7 +26,36 @@ Upon receiving your report, we will pass along the information you provided to t
 
 Below are the models that we have verified and removed. The list will be continually updated. Please understand that we are a group of human beings, not AIs. We cannot be trained to recognize every model and automatically identify copyright infringement. But we do respect intellectual property rights, and we expect people on Creality Cloud to do the same. 
 
+# Apr 27, 2022
+
+https://www.crealitycloud.com/model-detail/62680ecbbb6b6e4982a5a5ee [maceta 4]
+
+https://www.crealitycloud.com/model-detail/626762cdbb6b6e4982a54578 [maceta]
+
+https://www.crealitycloud.com/model-detail/6266556705282c155755d06f [croc]
+
+https://www.crealitycloud.com/model-detail/625c1f1c10806330c5cbce6f [red eye]
+
+https://www.crealitycloud.com/model-detail/62389186b0be9d2b4d3d77ad [Cuckoo Clock]
+
+https://www.crealitycloud.com/model-detail/622c1f7d9f4da3c29483090e [Marvin Keychain]
+
+https://www.crealitycloud.com/model-detail/619b16228f5f262859f6b1a7 [Mew pokémon]
+
+https://www.crealitycloud.com/model-detail/619c3d9f8f5f262859f7531e [mew]
+
+https://www.crealitycloud.com/model-detail/62515b27c8f92b598e0878cd [mega zhort power rangers]
+
+https://www.crealitycloud.com/model-detail/62677df6bb6b6e4982a55bcb [Dead]
+
+https://www.crealitycloud.com/model-detail/62627af5f6ff7774e113d4d3 [Stormtropper]
+
+https://www.crealitycloud.com/model-detail/62625e21f6ff7774e113ca60 [Darth vader]
+
+https://www.crealitycloud.com/model-detail/626675bcbb6b6e4982a4d101 [Nezuko]
+
 # Apr 26, 2022
+
 https://www.crealitycloud.com/model-detail/616ffd0d0bfa2e82df8016bc [DeadPool Chibi]
 
 https://www.crealitycloud.com/model-detail/616ffcb40bfa2e82df800bab [Michael Jackson Chibi]
