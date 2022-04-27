@@ -1,4 +1,4 @@
-Creality Cloud is the world's first all-in-one 3D printing platform that offers model downloads, cloud slicing, and remote control printers to make 3D printing easier and smarter for over a million makers. It is also a social community for every 3D printing hobbyist.
+Creality Cloud （https://www.crealitycloud.com/） is the world's first all-in-one 3D printing platform that offers model downloads, cloud slicing, and remote control printers to make 3D printing easier and smarter for over a million makers. It is also a social community for every 3D printing hobbyist.
 
 **Protecting the rights of creators has always been at the core of our operations, and we have constantly been fighting against copyright issues since the platform went live. Since almost all models on Creality Cloud are uploaded by users, we take copyright infringement seriously and remove reported infringing models. We are not the Internet’s content police as we believe that any 3D model belongs to its original creator other than any platform. Platforms should give users more control but  have to come forward when dealing with matters of principle.**
 
