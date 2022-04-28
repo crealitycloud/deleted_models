@@ -38,6 +38,10 @@ https://www.crealitycloud.com/model-detail/61e096732e8945171d5ae48d [Moon city]
 
 https://www.crealitycloud.com/model-detail/622efec99f4da3c294845003 [nine tails]
 
+https://www.crealitycloud.com/model-detail/61bcec35033759583b54a905 [Among Us - dead player 👾]
+
+https://www.crealitycloud.com/model-detail/61ffe89578941747662c1766 [Set Among us 3]
+
 # Apr 27, 2022
 
 https://www.crealitycloud.com/model-detail/62680ecbbb6b6e4982a5a5ee [maceta 4]
