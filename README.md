@@ -32,6 +32,12 @@ Upon receiving your report, we will pass along the information you provided to t
 
 Below are the models that we have verified and removed. The list will be continually updated. Please understand that we are a group of human beings, not AIs. We cannot be trained to recognize every model and automatically identify copyright infringement. But we do respect intellectual property rights, and we expect people on Creality Cloud to do the same. 
 
+# Apr 28, 2022
+
+https://www.crealitycloud.com/model-detail/61e096732e8945171d5ae48d [Moon city]
+
+https://www.crealitycloud.com/model-detail/622efec99f4da3c294845003 [nine tails]
+
 # Apr 27, 2022
 
 https://www.crealitycloud.com/model-detail/62680ecbbb6b6e4982a5a5ee [maceta 4]
