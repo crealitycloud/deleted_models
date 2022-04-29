@@ -32,6 +32,30 @@ Upon receiving your report, we will pass along the information you provided to t
 
 Below are the models that we have verified and removed. The list will be continually updated. Please understand that we are a group of human beings, not AIs. We cannot be trained to recognize every model and automatically identify copyright infringement. But we do respect intellectual property rights, and we expect people on Creality Cloud to do the same. 
 
+# Apr 29, 2022
+
+https://www.crealitycloud.com/model-detail/616ff7dc0bfa2e82df7f59c1 [filimant oiler]
+
+https://www.crealitycloud.com/model-detail/616ff233f6bf107ce0c48036 [Crimbo tree, not my design jsjdbdjhsjdjrjrbsbsndbdbsbsbdbdbs]
+
+https://www.crealitycloud.com/model-detail/623395e276c115cc0a9f58f8 [🖼🎄💡Christmas tree with base lamp]
+
+https://www.crealitycloud.com/model-detail/616ff25bf6bf107ce0c48101 [Christmas tree]
+
+https://www.crealitycloud.com/model-detail/61bceb5d033759583b54a8c5 [Among Us - impostor 👾]
+
+https://www.crealitycloud.com/model-detail/61bcebd2353fb7973a9e7281 [Among Us - player 👾]
+
+https://www.crealitycloud.com/model-detail/62315968544ce7f67c794749 [Darth Helmet]
+
+https://www.crealitycloud.com/model-detail/6239c5aec5f374d7fd2bb0ec [baby yoda cama]
+
+https://www.crealitycloud.com/model-detail/6258a71b10806330c5c9d2d5 [darth vader]
+
+https://www.crealitycloud.com/model-detail/625afe8519982ca5fb5fa86e [Baby Yoda]
+
+https://www.crealitycloud.com/model-detail/622725adcb39333d0b1489b4 [nezuko]
+
 # Apr 28, 2022
 
 https://www.crealitycloud.com/model-detail/61e096732e8945171d5ae48d [Moon city]
