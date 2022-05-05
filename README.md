@@ -34,6 +34,20 @@ Below are the models that we have verified and removed. The list will be continu
 
 # May 5, 2022
 
+https://www.crealitycloud.com/model-detail/61bf4b62353fb7973a9f133a [полночь]
+
+https://www.crealitycloud.com/model-detail/61f9f39778941747662a0482 [Freddy Mercury]
+
+https://www.crealitycloud.com/model-detail/61f635a178941747662893db [Goku Kid and Dino]
+
+https://www.crealitycloud.com/model-detail/624b2a38cebc9ffe53c925d9 [Trash Monster]
+
+https://www.crealitycloud.com/model-detail/616ff97f0bfa2e82df7fa1a3 [jkesnk]
+
+https://www.crealitycloud.com/model-detail/61e229241ea0744055f578a3 [piggy bank]
+
+https://www.crealitycloud.com/model-detail/616ff62c0bfa2e82df7ee690 [cerdo]
+
 https://www.crealitycloud.com/model-detail/6262df05dde502082910239b [dragon]
 
 https://www.crealitycloud.com/model-detail/623f008cc5f374d7fd2e215d [PS5 holder]
