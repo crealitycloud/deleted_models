@@ -32,6 +32,12 @@ Upon receiving your report, we will pass along the information you provided to t
 
 Below are the models that we have verified and removed. The list will be continually updated. Please understand that we are a group of human beings, not AIs. We cannot be trained to recognize every model and automatically identify copyright infringement. But we do respect intellectual property rights, and we expect people on Creality Cloud to do the same. 
 
+# May 5, 2022
+
+https://www.crealitycloud.com/model-detail/6262df05dde502082910239b [dragon]
+
+
+
 # Apr 29, 2022
 
 https://www.crealitycloud.com/model-detail/616ff7dc0bfa2e82df7f59c1 [filimant oiler]
