@@ -36,6 +36,27 @@ Below are the models that we have verified and removed. The list will be continu
 
 https://www.crealitycloud.com/model-detail/6262df05dde502082910239b [dragon]
 
+https://www.crealitycloud.com/model-detail/623f008cc5f374d7fd2e215d [PS5 holder]
+
+https://www.crealitycloud.com/model-detail/6252c057c8f92b598e0942a7 [xbox holder controller]
+
+https://www.crealitycloud.com/model-detail/616ffad10bfa2e82df7fcecd [Vyraetra]
+
+https://www.crealitycloud.com/model-detail/616ffad10bfa2e82df7fcec5 [Tyrnin]
+
+https://www.crealitycloud.com/model-detail/616ffad10bfa2e82df7fcecb [Umunairu]
+
+https://www.crealitycloud.com/model-detail/618f81578f5f262859f02b31 [Goku Kid]
+
+https://www.crealitycloud.com/model-detail/618e15938f5f262859ef4950 [Vegeta Bust]
+
+https://www.crealitycloud.com/model-detail/616ff97e0bfa2e82df7fa161 [Morrigan Darkstalkers 5]
+
+https://www.crealitycloud.com/model-detail/616ff8bf0bfa2e82df7f8468 [Dragon Ball Z - Goku]
+
+https://www.crealitycloud.com/model-detail/616ffd7d0bfa2e82df8023a3 [Gengar]
+
+https://www.crealitycloud.com/model-detail/616ff8c80bfa2e82df7f8561 [Goku]
 
 
 # Apr 29, 2022
