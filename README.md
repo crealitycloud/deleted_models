@@ -34,6 +34,32 @@ Below are the models that we have verified and removed. The list will be continu
 
 # May 5, 2022
 
+https://www.crealitycloud.com/model-detail/616ff62b0bfa2e82df7ee621 [cerdo]
+
+https://www.crealitycloud.com/model-detail/61e261a92e8945171d5b81e1 [Harley Quinn]
+
+https://www.crealitycloud.com/model-detail/626bea9564e0aab76faae264 [Toph Beifong]
+
+https://www.crealitycloud.com/model-detail/61f22d77354bf56626567713 [Bulma Dragon Ball]
+
+https://www.crealitycloud.com/model-detail/61f2caee354bf5662656af5b [Dragon Ball Time Machine]
+
+https://www.crealitycloud.com/model-detail/626bec2a94583e3360840d56 [Gundam Strike part 1]
+
+https://www.crealitycloud.com/model-detail/61e76ae6b63e1ada8983e45b [Gundam Strike part 2]
+
+https://www.crealitycloud.com/model-detail/626be7b064e0aab76faae01f [ValkyrII Transformable]
+
+https://www.crealitycloud.com/model-detail/622cae8a8311d0290e7fa557 [Apex legends pathfinder big]
+
+https://www.crealitycloud.com/model-detail/62433ca77ad0d379abe7302a [doomslayer shoulder cosplay]
+
+https://www.crealitycloud.com/model-detail/624197707ad0d379abe66ec7 [doomslayer cosplay chestplate]
+
+https://www.crealitycloud.com/model-detail/626c122194583e336084276d [Chestburste]
+
+https://www.crealitycloud.com/model-detail/62557f3dc8f92b598e0acf0b [Fractal Pyramid with Continuous Cross-section]
+
 https://www.crealitycloud.com/model-detail/61bf4b62353fb7973a9f133a [полночь]
 
 https://www.crealitycloud.com/model-detail/61f9f39778941747662a0482 [Freddy Mercury]
