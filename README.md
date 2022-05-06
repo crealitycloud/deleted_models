@@ -34,6 +34,16 @@ Below are the models that we have verified and removed. The list will be continu
 
 # May 6, 2022
 
+https://www.crealitycloud.com/model-detail/6272bb9c94583e336087c9e0 [RENGOKU KYOJURO]
+
+https://www.crealitycloud.com/model-detail/6272b88c94583e336087c868 [escanor]
+
+https://www.crealitycloud.com/model-detail/626cb0da94583e3360849a5e [vilma]
+
+https://www.crealitycloud.com/model-detail/626d4e2d94583e336084ffcc [ha tsuyuasui]
+
+https://www.crealitycloud.com/model-detail/626d4f5464e0aab76fabc585 [blade]
+
 https://www.crealitycloud.com/model-detail/6272be9764e0aab76fae6099 [ZENITSU]
 
 https://www.crealitycloud.com/model-detail/6272c58164e0aab76fae6448 [FULL METAL ALQUIMIST]
