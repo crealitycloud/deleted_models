@@ -48,6 +48,22 @@ https://www.crealitycloud.com/model-detail/6272be9764e0aab76fae6099 [ZENITSU]
 
 https://www.crealitycloud.com/model-detail/6272c58164e0aab76fae6448 [FULL METAL ALQUIMIST]
 
+https://www.crealitycloud.com/model-detail/626d504394583e3360850162 [korra]
+
+https://www.crealitycloud.com/model-detail/626df13e94583e3360857bfe [kakuzu]
+
+https://www.crealitycloud.com/model-detail/626d68e194583e3360852278 [la mole]
+
+https://www.crealitycloud.com/model-detail/6272bdcd64e0aab76fae602f [TANJIRO]
+
+https://www.crealitycloud.com/model-detail/6272bcff64e0aab76fae5f5d [ZENITSU]
+
+https://www.crealitycloud.com/model-detail/6272bf6494583e336087cc32 [RADITZ]
+
+https://www.crealitycloud.com/model-detail/626d9ddd64e0aab76fac0d96 [THE WASP]
+
+https://www.crealitycloud.com/model-detail/6272bcb594583e336087ca99 [INOSQUE]
+
 # May 5, 2022
 
 https://www.crealitycloud.com/model-detail/616ff62b0bfa2e82df7ee621 [cerdo]
