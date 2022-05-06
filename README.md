@@ -32,6 +32,12 @@ Upon receiving your report, we will pass along the information you provided to t
 
 Below are the models that we have verified and removed. The list will be continually updated. Please understand that we are a group of human beings, not AIs. We cannot be trained to recognize every model and automatically identify copyright infringement. But we do respect intellectual property rights, and we expect people on Creality Cloud to do the same. 
 
+# May 6, 2022
+
+https://www.crealitycloud.com/model-detail/6272be9764e0aab76fae6099 [ZENITSU]
+
+https://www.crealitycloud.com/model-detail/6272c58164e0aab76fae6448 [FULL METAL ALQUIMIST]
+
 # May 5, 2022
 
 https://www.crealitycloud.com/model-detail/616ff62b0bfa2e82df7ee621 [cerdo]
