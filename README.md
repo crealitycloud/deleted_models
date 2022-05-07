@@ -32,6 +32,16 @@ Upon receiving your report, we will pass along the information you provided to t
 
 Below are the models that we have verified and removed. The list will be continually updated. Please understand that we are a group of human beings, not AIs. We cannot be trained to recognize every model and automatically identify copyright infringement. But we do respect intellectual property rights, and we expect people on Creality Cloud to do the same. 
 
+# May 7, 2022
+
+https://www.crealitycloud.com/model-detail/618210120085f5957ac11aaf [Spiderman Busto SupportFree]
+
+https://www.crealitycloud.com/model-detail/6252c63c3d50a4fff1f4e686 [headphone holder]
+
+https://www.crealitycloud.com/model-detail/6252c51dc8f92b598e0944da [JagdPz 38(t) Hetzer]
+
+https://www.crealitycloud.com/model-detail/62528b80c8f92b598e09290d [nmr_71_isuzu_giga]
+
 # May 6, 2022
 
 https://www.crealitycloud.com/model-detail/6272bb9c94583e336087c9e0 [RENGOKU KYOJURO]
