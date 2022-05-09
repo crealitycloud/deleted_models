@@ -32,6 +32,24 @@ Upon receiving your report, we will pass along the information you provided to t
 
 Below are the models that we have verified and removed. The list will be continually updated. Please understand that we are a group of human beings, not AIs. We cannot be trained to recognize every model and automatically identify copyright infringement. But we do respect intellectual property rights, and we expect people on Creality Cloud to do the same. 
 
+# May 8, 2022
+
+https://www.crealitycloud.com/model-detail/6252bf153d50a4fff1f4e3a6 [Karambit knife]
+
+https://www.crealitycloud.com/model-detail/6252c400c8f92b598e094443 [flowerpot]
+
+https://www.crealitycloud.com/model-detail/624416497ad0d379abe79b9a [F1 formula]
+
+https://www.crealitycloud.com/model-detail/620a325e78941747662fbb1d [XL Flexi Caterpillar]
+
+https://www.crealitycloud.com/model-detail/620a319678941747662fbae5 [Flexi Caterpillar]
+
+https://www.crealitycloud.com/model-detail/61f298ae789417476627344d [José Victor Marques de Almeida José]
+
+https://www.crealitycloud.com/model-detail/61f375c5354bf5662656f797 [nffucxgjh]
+
+https://www.crealitycloud.com/model-detail/6250aee03d50a4fff1f3ce64 [crocodilo]
+
 # May 7, 2022
 
 https://www.crealitycloud.com/model-detail/618210120085f5957ac11aaf [Spiderman Busto SupportFree]
