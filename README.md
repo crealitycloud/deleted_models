@@ -36,6 +36,8 @@ Below are the models that we have verified and removed. The list will be continu
 
 https://www.crealitycloud.com/model-detail/61d426b2e2c8e0b4532acb3f [toys]
 
+https://www.crealitycloud.com/model-detail/626c136e64e0aab76faafb74 [Boy Kicking Kong Fu Phone]
+
 
 
 # May 9, 2022
