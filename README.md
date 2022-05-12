@@ -32,6 +32,14 @@ Upon receiving your report, we will pass along the information you provided to t
 
 Below are the models that we have verified and removed. The list will be continually updated. Please understand that we are a group of human beings, not AIs. We cannot be trained to recognize every model and automatically identify copyright infringement. But we do respect intellectual property rights, and we expect people on Creality Cloud to do the same. 
 
+# May 12, 2022
+
+https://www.crealitycloud.com/model-detail/616ff7dd0bfa2e82df7f5a18 [Marvel picture]
+
+https://www.crealitycloud.com/model-detail/61a66b36a10ba12fbf3c440c [Christmas Tree]
+
+https://www.crealitycloud.com/model-detail/616ff2d8f6bf107ce0c48352 [Large Xmas Tree Decoration]
+
 # May 11, 2022
 
 https://www.crealitycloud.com/model-detail/625b257110806330c5cb53f1 [Organisateur Cr10 smart]
