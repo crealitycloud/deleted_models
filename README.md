@@ -32,6 +32,26 @@ Upon receiving your report, we will pass along the information you provided to t
 
 Below are the models that we have verified and removed. The list will be continually updated. Please understand that we are a group of human beings, not AIs. We cannot be trained to recognize every model and automatically identify copyright infringement. But we do respect intellectual property rights, and we expect people on Creality Cloud to do the same. 
 
+# May 24, 2022
+
+https://www.crealitycloud.com/model-detail/61e5a5c3b63e1ada89832293 [gmbo]
+
+https://www.crealitycloud.com/model-detail/627dd1cce8b251a13b49d950 [spider-man]
+
+https://www.crealitycloud.com/model-detail/6288b78e1d0e816551366757 [Spirited away]
+
+https://www.crealitycloud.com/model-detail/624dd2c13d50a4fff1f271f6 [glock]
+
+https://www.crealitycloud.com/model-detail/624c510ccc74ffd752483d94 [Dragon]
+
+https://www.crealitycloud.com/model-detail/62896d041d0e81655136dded [Vampirela sedutora]
+
+https://www.crealitycloud.com/model-detail/616ffa0f0bfa2e82df7fb4c3 [iron man]
+
+https://www.crealitycloud.com/model-detail/6176d24599323c8566739ab1 [Nezuko]
+
+https://www.crealitycloud.com/model-detail/616ffd740bfa2e82df80223a [kirito chibi]
+
 # May 17, 2022
 
 https://www.crealitycloud.com/model-detail/627e1479484728351fc317a8 [Formula 1 Racing Car]
