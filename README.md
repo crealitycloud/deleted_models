@@ -32,6 +32,37 @@ Upon receiving your report, we will pass along the information you provided to t
 
 Below are the models that we have verified and removed. The list will be continually updated. Please understand that we are a group of human beings, not AIs. We cannot be trained to recognize every model and automatically identify copyright infringement. But we do respect intellectual property rights, and we expect people on Creality Cloud to do the same. 
 
+# May 25, 2022
+
+https://www.crealitycloud.com/model-detail/6256ad35c8f92b598e0b5d3b [SPIDER-MAN ARTICULATED PRINT-IN-PLACE]
+
+https://www.crealitycloud.com/model-detail/627c12c2e8b251a13b47bb60 [Articulated Print-in-Place Hydra]
+
+https://www.crealitycloud.com/model-detail/616ff8a90bfa2e82df7f8054 [bikinifigurine]
+
+https://www.crealitycloud.com/model-detail/62508bacc8f92b598e080361 [🖼🏺Groovy vase ✓]
+
+https://www.crealitycloud.com/model-detail/625277fb3d50a4fff1f4c50e [🖼🏺Shell bowl vase]
+
+https://www.crealitycloud.com/model-detail/6253357c3d50a4fff1f5296d [🖼🏺Hex groove vase ✓]
+
+https://www.crealitycloud.com/model-detail/625336b33d50a4fff1f52a1b [🖼🏺Straight and wavy groove vases]
+
+https://www.crealitycloud.com/model-detail/625337bbc8f92b598e0990cc [🖼🏺🪴Large flower plant pot vase]
+
+https://www.crealitycloud.com/model-detail/62533b903d50a4fff1f52cf8 [🖼🏺Triangle on a curve vase]
+
+https://www.crealitycloud.com/model-detail/62533c29c8f92b598e099372 [🖼🏺Sand ripples vase]
+
+https://www.crealitycloud.com/model-detail/626079f318564f132267dd9c [🖼🎄Christmas trees]
+
+https://www.crealitycloud.com/model-detail/626053ef18564f132267c842 [🖼🏺Sunny bowl]
+
+https://www.crealitycloud.com/model-detail/62605342e3d96e5c796ab7e3 [🖼🎄Christmas star tree]
+
+https://www.crealitycloud.com/model-detail/6256818ec8f92b598e0b4abb [🖼🏺Even more groovy vase]
+
+
 # May 24, 2022
 
 https://www.crealitycloud.com/model-detail/61e5a5c3b63e1ada89832293 [gmbo]
