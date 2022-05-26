@@ -32,6 +32,28 @@ Upon receiving your report, we will pass along the information you provided to t
 
 Below are the models that we have verified and removed. The list will be continually updated. Please understand that we are a group of human beings, not AIs. We cannot be trained to recognize every model and automatically identify copyright infringement. But we do respect intellectual property rights, and we expect people on Creality Cloud to do the same. 
 
+# May 26, 2022
+
+https://www.crealitycloud.com/model-detail/62533f1e3d50a4fff1f52f20 [🖼🏺Wide groove vase]
+
+https://www.crealitycloud.com/model-detail/6253400fc8f92b598e0995ef [🖼🏺Rudimental bowl vase remix]
+
+https://www.crealitycloud.com/model-detail/625340a2c8f92b598e099665 [🖼🏺Zig zag vase]
+
+https://www.crealitycloud.com/model-detail/625346a63d50a4fff1f53447 [🖼🏺Lumpy bumpy vase ✓]
+
+https://www.crealitycloud.com/model-detail/62534fad3d50a4fff1f53972 [🖼🏺Wide groove bowl vase ✓]
+
+https://www.crealitycloud.com/model-detail/625366c7c8f92b598e09ab2c [🖼🏺Square ripple bowl vase]
+
+https://www.crealitycloud.com/model-detail/625390ec3d50a4fff1f55909 [🖼🏺Rudimental bowl vase]
+
+https://www.crealitycloud.com/model-detail/625392f23d50a4fff1f559f7 [🖼🏺Fin_tastic vase]
+
+https://www.crealitycloud.com/model-detail/62539417c8f92b598e09c327 [🖼🏺Very groovy vase]
+
+https://www.crealitycloud.com/model-detail/62539481c8f92b598e09c341 [🖼🏺River vase ✓]
+
 # May 25, 2022
 
 https://www.crealitycloud.com/model-detail/6256ad35c8f92b598e0b5d3b [SPIDER-MAN ARTICULATED PRINT-IN-PLACE]
