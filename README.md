@@ -32,6 +32,16 @@ Upon receiving your report, we will pass along the information you provided to t
 
 Below are the models that we have verified and removed. The list will be continually updated. Please understand that we are a group of human beings, not AIs. We cannot be trained to recognize every model and automatically identify copyright infringement. But we do respect intellectual property rights, and we expect people on Creality Cloud to do the same. 
 
+# May 31, 2022
+
+https://www.crealitycloud.com/model-detail/622c4d259f4da3c294831d05 [coeur]
+
+https://www.crealitycloud.com/model-detail/625fd17de3d96e5c796a67e4 [Warg riding girl]
+
+https://www.crealitycloud.com/model-detail/61ea39dad932fcf5be3252ec [ed spider]
+
+https://www.crealitycloud.com/model-detail/627886aaf763c775be2c4b16 [rubber band gun v5.0]
+
 # May 26, 2022
 
 https://www.crealitycloud.com/model-detail/62533f1e3d50a4fff1f52f20 [🖼🏺Wide groove vase]
