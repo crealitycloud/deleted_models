@@ -32,6 +32,22 @@ Upon receiving your report, we will pass along the information you provided to t
 
 Below are the models that we have verified and removed. The list will be continually updated. Please understand that we are a group of human beings, not AIs. We cannot be trained to recognize every model and automatically identify copyright infringement. But we do respect intellectual property rights, and we expect people on Creality Cloud to do the same. 
 
+# June 7, 2022
+
+https://www.crealitycloud.com/model-detail/627d2814e8b251a13b491ee3 [Boba Fett]
+
+https://www.crealitycloud.com/model-detail/627be3fd484728351fbfc855 [Magneto]
+
+https://www.crealitycloud.com/model-detail/627dd48d484728351fc2c1b1 [Spider-Man]
+
+https://www.crealitycloud.com/model-detail/627dc8c6e8b251a13b49d2d3 [Iron Man Statue]
+
+https://www.crealitycloud.com/model-detail/625662303d50a4fff1f6b7ab [Game King Pro white dragon]
+
+https://www.crealitycloud.com/model-detail/6286c06d43304749fb3852a6 [Bat Girl]
+
+
+
 # June 1, 2022
 
 https://www.crealitycloud.com/model-detail/61bc8f30353fb7973a9e4cc3 [ilidan storm]
