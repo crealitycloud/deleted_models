@@ -36,6 +36,8 @@ Below are the models that we have verified and removed. The list will be continu
 
 https://www.crealitycloud.com/model-detail/62a895ea18553dffb0bca55f [Ashutosh]
 
+https://www.crealitycloud.com/model-detail/62a538c53d62903e07e32618 [crawling claw]
+
 # June 7, 2022
 
 https://www.crealitycloud.com/model-detail/627d2814e8b251a13b491ee3 [Boba Fett]
