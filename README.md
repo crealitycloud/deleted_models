@@ -34,6 +34,9 @@ Below are the models that we have verified and removed. The list will be continu
 
 # July 2022
 
+
+7 models removed on July, 7.
+
 52 models removed on July, 5.
 
 36 models removed on July, 4.
