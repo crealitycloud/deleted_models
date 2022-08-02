@@ -32,8 +32,20 @@ Upon receiving your report, we will pass along the information you provided to t
 
 Below are the models that we have verified and removed. The list will be continually updated. Please understand that we are a group of human beings, not AIs. We cannot be trained to recognize every model and automatically identify copyright infringement. But we do respect intellectual property rights, and we expect people on Creality Cloud to do the same. 
 
+# August 2022
+
+6 models removed on August, 1.
+
+
 # July 2022
 
+32 models removed on July, 27.
+
+17 models removed on July, 26.
+
+5 models removed on July, 19.
+
+16 models removed on July, 12.
 
 7 models removed on July, 7.
 
